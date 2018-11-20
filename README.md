@@ -1,5 +1,5 @@
-# Gulp Starter for CSS Tricks Tutorial  
+# Adapted from Gulp Starter for CSS Tricks Tutorial
 
-This repo is a gulp starter for this CSS Tricks tutorial. 
+Now includes autoprefixer
 
-Remember to do run the `npm install` command after cloning this repo :) 
+Run the `npm install` command after cloning this repo
